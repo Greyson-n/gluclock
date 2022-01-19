@@ -1,0 +1,36 @@
+{
+  "unit": "mg/dL",
+  "rateUnit": "mg/dL/min",
+  "egvs": [
+    {
+      "systemTime": "2018-02-06T09:12:35",
+      "displayTime": "2018-02-06T01:12:35",
+      "value": 122,
+      "realtimeValue": 121,
+      "smoothedValue": 122,
+      "status": null,
+      "trend": "flat",
+      "trendRate": -0.5
+    },
+    {
+      "systemTime": "2018-02-06T09:07:35",
+      "displayTime": "2018-02-06T01:07:35",
+      "value": 123,
+      "realtimeValue": 124,
+      "smoothedValue": 123,
+      "status": null,
+      "trend": "flat",
+      "trendRate": -0.5
+    },
+    {
+      "systemTime": "2018-02-06T09:02:35",
+      "displayTime": "2018-02-06T01:02:35",
+      "value": 125,
+      "realtimeValue": 125,
+      "smoothedValue": null,
+      "status": null,
+      "trend": "flat",
+      "trendRate": -0.7
+    }
+  ]
+}
